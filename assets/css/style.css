@@ -6,7 +6,6 @@
    --branco: #FFFFFF;
    --azul:#2A7AE4;
 }
-
 body {
     box-sizing: border-box;
     background-color: var(--cor-de-fundo) ;
